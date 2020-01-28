@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+.title{
+    border: black 1px solid;
+    margin-bottom: 10px;
+    padding: 20px;
+}
+.subtitle{
+    border: black 1px solid;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 15px;
+}
+.article{
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
+.row{
+    padding:10px
+}
